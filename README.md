@@ -1,4 +1,4 @@
-# dwarffs
+ # dwarffs
 
 `dwarffs` is a FUSE-based filesystem that fetches DWARF debug info
 files automatically from `cache.nixos.org`, based on the build ID
